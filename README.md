@@ -41,7 +41,7 @@
 <h3 align="center"> 🚀 Demostração da página</h3>
 
 <div align="center">
-    <img  src="./Filmes Cartaz/assets/gif/filmes.gif" width="500" height="300" alt="">
+    <img  src="./Filmes Cartaz/assets/gif/filmes.gif" width="auto" height="auto" alt="">
 </div>
 										     
 <hr>
