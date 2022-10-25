@@ -27,9 +27,7 @@
 
 <h3 style="font-weight: normal;" align="center">🚀 Como usar:</h3>
 <div align="center"">
-  Como é uma página em html normal, basta apenas baixar o projeto e dar duplo clique no arquivo
-  que tem o nome: index.html
-
+  Como é uma página em html normal, basta apenas baixar o projeto e dar duplo clique no arquivo que tem o nome: index.html
 <hr>
 	    
 </div>
